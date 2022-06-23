@@ -1,0 +1,29 @@
+{
+	"type": "home",
+	"blocks": [
+		{
+			"type": "context",
+			"elements": [
+				{
+					"type": "mrkdwn",
+					"text": "2021-04-05 17:57:07 -0400 EDT"
+				}
+			]
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "Test"
+			},
+			"accessory": {
+				"type": "image",
+				"image_url": "https://cdn.glitch.com/0d5619da-dfb3-451b-9255-5560cd0da50b/stickie_yellow.png",
+				"alt_text": "Test stickie note"
+			}
+		},
+		{
+			"type": "divider"
+		}
+	]
+}
